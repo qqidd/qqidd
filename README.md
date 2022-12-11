@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qqidd
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I’m @qqidd
 - 👀 By one dek....
 
 <!---
